@@ -235,3 +235,5 @@ details p:last-child, details ul:last-child { margin-bottom: 4px; }
   .barra nav, .idioma, .boton { display: none; }
   body { font-size: 11pt; }
 }
+
+.contacto a:not(.boton) { color: #FFFFFF; }
